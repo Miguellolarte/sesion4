@@ -1,0 +1,72 @@
+
+div{
+	width: 120px; 
+	 height: 120px;
+	margin-left: 50px;
+	float: left:;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #F2F1EE;
+	border: 1px solid #000;
+
+}
+.caja1{
+	border-radius: 24px;
+	box-shadow: -5px #888;
+	
+}
+.caja2{
+	border-top-left-radius: 24px;
+	box-shadow: -5px -5px 5px #888;
+	
+}
+.caja3{
+	clear: both;
+	border-radius: 24px 0;
+	box-shadow: -5px -5px 0 5px #888;
+
+}
+.caja4{
+	border-radius: 36px 12px;
+	box-shadow: -5px -5px 5px 5px #888;
+}
+.caja5{
+	border-top-right-radius: 50px 30px;
+	box-shadow: 0 0 5px #888;
+}
+.caja6{
+	border-bottom-right-radius: 50px 30px;
+	box-shadow: 0 0 5px 5px #888;
+
+}
+.caja7{
+	border-radius: 50%;
+	box-shadow: inset -5px -5px #888;
+
+}
+.caja8{
+	border-radius: 50px 50px 0 0;
+	box-shadow: inset -5px -5px 5px #888;
+}
+.caja9{
+	border-radius: 0px 20px 20px 0px;
+	box-shadow: inset -5px -5px 0 5px #888;
+}
+.caja10{
+ 	border-radius: 20px 0px 0px 20px;
+ 	box-shadow: inset -5px -5px 5px 5px #888;
+}
+.caja11{
+	border-radius: 0 50% 0 50%;
+	box-shadow: inset 0 0 80px #888;
+}
+.caja12{
+	border-top-left-radius: 50% 20%;
+	border-top-right-radius: 50% 20%;
+	border-bottom-left-radius: 50% 20%;
+	border-bottom-left-radius: 50% 20%;
+	box-shadow: inset 0 0 5px 5px #888;
+
+}
